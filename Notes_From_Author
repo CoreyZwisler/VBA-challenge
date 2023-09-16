@@ -1,3 +1,7 @@
 I separated my code into 2 different loops because my computer would crash if I did it in one loop.
 Another thing I noticed was sometimes the code wouldn't show all of the results of the code in the stock data, but would work fine on the smaller data sheet we were given for testing.
 I am unsure if this is due to the limitations of my computer since the code didn't change.
+
+Some of my code I found solutions for on w3 and stackoverflow to assist.
+  I used information from the web on how to use commands .numberformat, worksheets.function, and used TA help with longlong. All of these coding concepts were foreign to me and I needed 
+  outside help to understand how to use and understand them.
