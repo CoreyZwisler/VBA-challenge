@@ -2,10 +2,10 @@
 
 Contained within this repository is my assignment for Challenge 2 using the following as instructions:
 
-Background
+Background:
 You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyze generated stock market data.
 
-Instructions
+Instructions:
 Create a script that loops through all the stocks for one year and outputs the following information:
 
 The ticker symbol
@@ -20,5 +20,7 @@ Add functionality to your script to return the stock with the "Greatest % increa
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
 
-NOTE
+NOTE:
 Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+
+As per instruction: I did use the internet (w3, stackoverflow) to assist in some of my code and have added a file titled Notes_From_Author with more details
